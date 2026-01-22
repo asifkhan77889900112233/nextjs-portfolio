@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Asif Ur Rehman
+ Hi, I’m Asif Ur Rehman
 
 I’m a self-driven **Next.js / Frontend Developer** who enjoys building real products, 
 solving problems, and understanding the *why* behind every solution.
@@ -7,7 +7,7 @@ I don’t just follow tutorials — I break things, fix them, and improve them.
 
 ---
 
-## 🛠️ Tech Stack
+ Tech Stack
 - HTML, CSS, JavaScript (ES6+)
 - React.js, Next.js
 - Tailwind CSS, Responsive Design
@@ -15,7 +15,7 @@ I don’t just follow tutorials — I break things, fix them, and improve them.
 
 ---
 
-## 🚀 What I Focus On
+ What I Focus On
 - Writing clean and readable code
 - Thinking before coding
 - Debugging and learning fast
@@ -23,19 +23,19 @@ I don’t just follow tutorials — I break things, fix them, and improve them.
 
 ---
 
-## 📂 Featured Projects
-### 🔹 Next.js Portfolio Website
+ Featured Projects
+  Next.js Portfolio Website
 - Built with Next.js and React
 - Responsive UI with clean component structure
 - Focused on performance and usability
-🔗 GitHub: https://github.com/yourusername/project-name
 
-### 🔹 Frontend Practice Projects
+
+  Frontend Practice Projects
 - Small projects to improve logic and UI thinking
 - Hands-on learning instead of copy-paste
-🔗 GitHub: https://github.com/yourusername/project-name
+
 
 ---
 
-## 📫 Contact
-- Email: your-email@gmail.com
+ Contact
+- Email: asifkhanak948666@gmail.com
